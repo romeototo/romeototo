@@ -68,8 +68,8 @@ const romeototo = {
 
 | | Project | Description | Tech | Links |
 |:---:|---------|-------------|:---:|:---:|
-| 🎮 | **Rialo Network Tycoon** | Premium idle/clicker web game with AI network theme | `HTML` `CSS` `JS` | [📦 Repo](https://github.com/romeototo/ai-tycoon-rialo-game) |
-| 👾 | **Monster Tapper** | Action-packed monster tapping clicker game | `JavaScript` | [📦 Repo](https://github.com/romeototo/monster-tapper) |
+| 🎮 | **Rialo Network Tycoon** | Premium idle/clicker web game with AI network theme | `HTML` `CSS` `JS` | [📦 Repo](https://github.com/romeototo/ai-tycoon-rialo-game) • [🔗 Play](https://romeototo.github.io/ai-tycoon-rialo-game/) |
+| 👾 | **Monster Tapper** | Action-packed monster tapping clicker game | `JavaScript` | [📦 Repo](https://github.com/romeototo/monster-tapper) • [🔗 Play](https://romeototo.github.io/monster-tapper/) |
 | 🤖 | **Telegram AI IT Agent** | AI-powered IT automation via Telegram | `Python` `AI` | [📦 Repo](https://github.com/romeototo/telegram-ai-it-automation-agent-) |
 | 🖼️ | **Image Creation** | Image generation project using Python | `Python` | [📦 Repo](https://github.com/romeototo/ImageCreationProject) |
 | 🌐 | **Portfolio Website** | Personal portfolio with premium dark theme | `HTML` `CSS` `JS` | [📦 Repo](https://github.com/romeototo/MyFirstProject) • [🔗 Live](https://romeototo.github.io/MyFirstProject/) |
