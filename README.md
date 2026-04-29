@@ -23,14 +23,20 @@ const romeototo = {
     handle: "@RoMeoT0T0",
     location: "Bangkok, Thailand 🇹🇭",
     bio: "@RialoHQ club member",
-    
+
     roles: ["Builder", "Game Dev", "AI Enthusiast", "Web3"],
     currently: "Building AI-powered tools & web games",
-    
+
+    techStack: ["JavaScript", "Python", "HTML/CSS", "Git"],
+
     social: {
         x: "https://x.com/RoMeoT0T0",     // 1.8K+ followers
-        github: "https://github.com/romeototo"
-    }
+        github: "https://github.com/romeototo",
+        portfolio: "https://romeototo.github.io/MyFirstProject/"
+    },
+
+    funFact: "I build games at 2AM and automate things at 3AM 🌙",
+    openTo: ["collaboration", "web3 projects", "game jams"]
 };
 ```
 
