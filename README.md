@@ -1,22 +1,47 @@
 <div align="center">
 
-# 👋 Hey, I'm **romeototo**
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9FF&height=220&section=header&text=RoMEoTOTO.base.eth&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Builder%20•%20Gamer%20•%20AI%20Enthusiast%20•%20Web3&descAlignY=55&descSize=18" width="100%" />
 
-### 🚀 Builder • Gamer • AI Enthusiast
+<!-- Social Badges -->
+[![X (Twitter)](https://img.shields.io/badge/@RoMeoT0T0-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RoMeoT0T0)
+[![GitHub](https://img.shields.io/badge/romeototo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/romeototo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://romeototo.github.io/MyFirstProject/)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+cool+stuff+with+AI+%F0%9F%A4%96;Crafting+web+games+%26+automation+tools+%F0%9F%8E%AE" alt="Typing SVG" />
-
----
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=🤖+Building+cool+stuff+with+AI;🎮+Crafting+web+games+%26+automation+tools;🌐+@RialoHQ+club+member+%7C+Web3+enthusiast" alt="Typing SVG" />
 
 </div>
 
-## 🧠 About Me
+---
 
-- 🔭 Currently building **AI-powered tools** and **web games**
-- 🎮 Creator of **Rialo Network Tycoon** — a premium idle/clicker game
-- 🤖 Exploring **AI automation** with Telegram bots
-- 🐍 Working with **Python**, **JavaScript**, **PowerShell** & **Shell**
-- 🌏 Based in **Thailand** 🇹🇭
+## 🧑‍💻 About Me
+
+```javascript
+const romeototo = {
+    name: "RoMEoTOTO.base.eth",
+    handle: "@RoMeoT0T0",
+    location: "Bangkok, Thailand 🇹🇭",
+    bio: "@RialoHQ club member",
+    
+    roles: ["Builder", "Game Dev", "AI Enthusiast", "Web3"],
+    currently: "Building AI-powered tools & web games",
+    
+    social: {
+        x: "https://x.com/RoMeoT0T0",     // 1.8K+ followers
+        github: "https://github.com/romeototo"
+    }
+};
+```
+
+<div align="center">
+
+| 📊 X Stats | |
+|:---:|:---:|
+| **1,844** Followers | **25,608** Posts |
+| **6,277** Following | **1,509** Media |
+
+</div>
 
 ---
 
@@ -41,13 +66,13 @@
 
 <div align="center">
 
-| Project | Description | Tech | Link |
-|---------|-------------|------|------|
-| 🎮 **Rialo Network Tycoon** | Premium idle/clicker web game with AI theme | HTML, CSS, JS | [🔗 Repo](https://github.com/romeototo/ai-tycoon-rialo-game) |
-| 👾 **Monster Tapper** | Fun monster-tapping clicker game | JavaScript | [🔗 Repo](https://github.com/romeototo/monster-tapper) |
-| 🤖 **Telegram AI IT Agent** | AI-powered IT automation via Telegram | Python | [🔗 Repo](https://github.com/romeototo/telegram-ai-it-automation-agent-) |
-| 🖼️ **Image Creation** | Image generation project using Python | Python | [🔗 Repo](https://github.com/romeototo/ImageCreationProject) |
-| 🌐 **Portfolio** | My personal portfolio website | HTML, CSS, JS | [🔗 Repo](https://github.com/romeototo/MyFirstProject) |
+| | Project | Description | Tech | Links |
+|:---:|---------|-------------|:---:|:---:|
+| 🎮 | **Rialo Network Tycoon** | Premium idle/clicker web game with AI network theme | `HTML` `CSS` `JS` | [📦 Repo](https://github.com/romeototo/ai-tycoon-rialo-game) |
+| 👾 | **Monster Tapper** | Action-packed monster tapping clicker game | `JavaScript` | [📦 Repo](https://github.com/romeototo/monster-tapper) |
+| 🤖 | **Telegram AI IT Agent** | AI-powered IT automation via Telegram | `Python` `AI` | [📦 Repo](https://github.com/romeototo/telegram-ai-it-automation-agent-) |
+| 🖼️ | **Image Creation** | Image generation project using Python | `Python` | [📦 Repo](https://github.com/romeototo/ImageCreationProject) |
+| 🌐 | **Portfolio Website** | Personal portfolio with premium dark theme | `HTML` `CSS` `JS` | [📦 Repo](https://github.com/romeototo/MyFirstProject) • [🔗 Live](https://romeototo.github.io/MyFirstProject/) |
 
 </div>
 
@@ -78,18 +103,28 @@
 
 <div align="center">
 
-### 🐍 Contribution Snake
+<!-- Connect Banner -->
+### 🤝 Let's Connect!
 
-<img src="https://raw.githubusercontent.com/romeototo/romeototo/output/github-snake-dark.svg" alt="Snake animation" />
+<a href="https://x.com/RoMeoT0T0">
+<img src="https://img.shields.io/badge/Follow_@RoMeoT0T0-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" height="35" />
+</a>
+&nbsp;
+<a href="https://github.com/romeototo">
+<img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
+</a>
+&nbsp;
+<a href="https://romeototo.github.io/MyFirstProject/">
+<img src="https://img.shields.io/badge/Visit_Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" />
+</a>
 
-</div>
-
----
-
-<div align="center">
+<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=romeototo&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 ⭐ **If you like my work, consider giving a star!** ⭐
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9FF&height=120&section=footer" width="100%" />
 
 </div>
