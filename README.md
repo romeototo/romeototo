@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://romeototo.github.io/MyFirstProject/)
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=🤖+Building+cool+stuff+with+AI;🎮+Crafting+web+games+%26+automation+tools;🌐+@RialoHQ+club+member+%7C+Web3+enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Building+cool+stuff+with+AI+...;Crafting+web+games+%26+tools;%40RialoHQ+club+member+%7C+Web3;Game+Dev+%7C+AI+Automation" alt="Typing SVG" />
 
 </div>
 
