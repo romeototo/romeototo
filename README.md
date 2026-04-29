@@ -3,6 +3,9 @@
 <!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9FF&height=220&section=header&text=RoMEoTOTO.base.eth&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Builder%20•%20Gamer%20•%20AI%20Enthusiast%20•%20Web3&descAlignY=55&descSize=18" width="100%" />
 
+<!-- Profile Banner -->
+<img src="./banner.png" alt="RoMeoTOTO — AI Automation Engineer | Automate · Control · Innovate" width="100%" style="border-radius:12px;" />
+
 <!-- Social Badges -->
 [![X (Twitter)](https://img.shields.io/badge/@RoMeoT0T0-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RoMeoT0T0)
 [![GitHub](https://img.shields.io/badge/romeototo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/romeototo)
@@ -42,10 +45,10 @@ const romeototo = {
 
 <div align="center">
 
-| 📊 X Stats | |
+| 📊 X / Twitter | |
 |:---:|:---:|
-| **1,844** Followers | **25,608** Posts |
-| **6,277** Following | **1,509** Media |
+| **1.8K+** Followers | **@RoMeoT0T0** |
+| Web3 • AI • Builder | Bangkok 🇹🇭 |
 
 </div>
 
@@ -76,8 +79,8 @@ const romeototo = {
 |:---:|---------|-------------|:---:|:---:|
 | 🎮 | **Rialo Network Tycoon** | Premium idle/clicker web game with AI network theme | `HTML` `CSS` `JS` | [📦 Repo](https://github.com/romeototo/ai-tycoon-rialo-game) • [🔗 Play](https://romeototo.github.io/ai-tycoon-rialo-game/) |
 | 👾 | **Monster Tapper** | Action-packed monster tapping clicker game | `JavaScript` | [📦 Repo](https://github.com/romeototo/monster-tapper) • [🔗 Play](https://romeototo.github.io/monster-tapper/) |
-| 🤖 | **Telegram AI IT Agent** | AI-powered IT automation via Telegram | `Python` `AI` | [📦 Repo](https://github.com/romeototo/telegram-ai-it-automation-agent-) |
-| 🖼️ | **Image Creation** | Image generation project using Python | `Python` | [📦 Repo](https://github.com/romeototo/ImageCreationProject) |
+| 🤖 | **Telegram AI IT Agent** | AI-powered IT automation via Telegram | `Python` `Gemini AI` | [📦 Repo](https://github.com/romeototo/telegram-ai-it-automation-agent) |
+| 🖼️ | **AI Image Generator** | Programmatic image generation with Python & PIL | `Python` `PIL` | [📦 Repo](https://github.com/romeototo/ImageCreationProject) |
 | 🌐 | **Portfolio Website** | Personal portfolio with premium dark theme | `HTML` `CSS` `JS` | [📦 Repo](https://github.com/romeototo/MyFirstProject) • [🔗 Live](https://romeototo.github.io/MyFirstProject/) |
 
 </div>
