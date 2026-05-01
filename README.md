@@ -9,7 +9,7 @@
 <!-- Social Badges -->
 [![X (Twitter)](https://img.shields.io/badge/@RoMeoT0T0-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RoMeoT0T0)
 [![GitHub](https://img.shields.io/badge/romeototo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/romeototo)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://romeototo.github.io/MyFirstProject/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://romeototo.github.io/portfolio-website/)
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Building+cool+stuff+with+AI+...;Crafting+web+games+%26+tools;%40RialoHQ+club+member+%7C+Web3;Game+Dev+%7C+AI+Automation" alt="Typing SVG" />
@@ -35,7 +35,7 @@ const romeototo = {
     social: {
         x: "https://x.com/RoMeoT0T0",     // 1.8K+ followers
         github: "https://github.com/romeototo",
-        portfolio: "https://romeototo.github.io/MyFirstProject/"
+        portfolio: "https://romeototo.github.io/portfolio-website/"
     },
 
     funFact: "I build games at 2AM and automate things at 3AM 🌙",
