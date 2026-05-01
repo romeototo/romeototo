@@ -27,8 +27,8 @@ const romeototo = {
     location: "Bangkok, Thailand 🇹🇭",
     bio: "@RialoHQ club member",
 
-    roles: ["Builder", "Game Dev", "AI Enthusiast", "Web3"],
-    currently: "Building AI-powered tools & web games",
+    roles: ["IT Support", "Builder", "AI Enthusiast", "Game Dev"],
+    currently: "Building AI-powered IT solutions & web games",
 
     techStack: ["JavaScript", "Python", "HTML/CSS", "Git"],
 
@@ -77,9 +77,10 @@ const romeototo = {
 
 | | Project | Description | Tech | Links |
 |:---:|---------|-------------|:---:|:---:|
+| 🖥️ | **IT Support AI Chatbot** | AI Chatbot ช่วยงาน IT Support — Gemini AI, 86 FAQ, Ticket System | `Python` `Flask` `Gemini AI` | [📦 Repo](https://github.com/romeototo/it-support-chatbot) • [🔗 Demo](https://romeototo.github.io/it-support-chatbot/) |
+| 🤖 | **Telegram AI IT Agent** | AI-powered IT automation via Telegram | `Python` `Gemini AI` | [📦 Repo](https://github.com/romeototo/telegram-ai-it-automation-agent) |
 | 🎮 | **Rialo Network Tycoon** | Premium idle/clicker web game with AI network theme | `HTML` `CSS` `JS` | [📦 Repo](https://github.com/romeototo/ai-tycoon-rialo-game) • [🔗 Play](https://romeototo.github.io/ai-tycoon-rialo-game/) |
 | 👾 | **Monster Tapper** | Action-packed monster tapping clicker game | `JavaScript` | [📦 Repo](https://github.com/romeototo/monster-tapper) • [🔗 Play](https://romeototo.github.io/monster-tapper/) |
-| 🤖 | **Telegram AI IT Agent** | AI-powered IT automation via Telegram | `Python` `Gemini AI` | [📦 Repo](https://github.com/romeototo/telegram-ai-it-automation-agent) |
 | 🖼️ | **AI Image Generator** | Programmatic image generation with Python & PIL | `Python` `PIL` | [📦 Repo](https://github.com/romeototo/ImageCreationProject) |
 | 🌐 | **Portfolio Website** | Personal portfolio with premium dark theme | `HTML` `CSS` `JS` | [📦 Repo](https://github.com/romeototo/MyFirstProject) • [🔗 Live](https://romeototo.github.io/MyFirstProject/) |
 
