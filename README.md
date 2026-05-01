@@ -77,7 +77,7 @@ const romeototo = {
 
 | | Project | Description | Tech | Links |
 |:---:|---------|-------------|:---:|:---:|
-| 🖥️ | **IT Support AI Chatbot** | AI Chatbot ช่วยงาน IT Support — Gemini AI, 86 FAQ, Ticket System | `Python` `Flask` `Gemini AI` | [📦 Repo](https://github.com/romeototo/it-support-chatbot) • [🔗 Demo](https://romeototo.github.io/it-support-chatbot/) |
+| 🖥️ | **IT Support AI Chatbot** | AI Chatbot ช่วยงาน IT Support — Gemini AI, 202 FAQ, Ticket System | `Python` `Flask` `Gemini AI` | [📦 Repo](https://github.com/romeototo/it-support-chatbot) • [🔗 Demo](https://romeototo.github.io/it-support-chatbot/) |
 | 🤖 | **Telegram AI IT Agent** | AI-powered IT automation via Telegram | `Python` `Gemini AI` | [📦 Repo](https://github.com/romeototo/telegram-ai-it-automation-agent) |
 | 🎮 | **Rialo Network Tycoon** | Premium idle/clicker web game with AI network theme | `HTML` `CSS` `JS` | [📦 Repo](https://github.com/romeototo/ai-tycoon-rialo-game) • [🔗 Play](https://romeototo.github.io/ai-tycoon-rialo-game/) |
 | 👾 | **Monster Tapper** | Action-packed monster tapping clicker game | `JavaScript` | [📦 Repo](https://github.com/romeototo/monster-tapper) • [🔗 Play](https://romeototo.github.io/monster-tapper/) |
