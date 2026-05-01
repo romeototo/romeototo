@@ -81,7 +81,7 @@ const romeototo = {
 | 🤖 | **Telegram AI IT Agent** | AI-powered IT automation via Telegram | `Python` `Gemini AI` | [📦 Repo](https://github.com/romeototo/telegram-ai-it-automation-agent) |
 | 🎮 | **Rialo Network Tycoon** | Premium idle/clicker web game with AI network theme | `HTML` `CSS` `JS` | [📦 Repo](https://github.com/romeototo/ai-tycoon-rialo-game) • [🔗 Play](https://romeototo.github.io/ai-tycoon-rialo-game/) |
 | 👾 | **Monster Tapper** | Action-packed monster tapping clicker game | `JavaScript` | [📦 Repo](https://github.com/romeototo/monster-tapper) • [🔗 Play](https://romeototo.github.io/monster-tapper/) |
-| 🖼️ | **AI Image Generator** | Programmatic image generation with Python & PIL | `Python` `PIL` | [📦 Repo](https://github.com/romeototo/ImageCreationProject) |
+
 | 🌐 | **Portfolio Website** | Personal portfolio with premium dark theme | `HTML` `CSS` `JS` | [📦 Repo](https://github.com/romeototo/portfolio-website) • [🔗 Live](https://romeototo.github.io/portfolio-website/) |
 
 </div>
