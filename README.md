@@ -82,7 +82,7 @@ const romeototo = {
 | 🎮 | **Rialo Network Tycoon** | Premium idle/clicker web game with AI network theme | `HTML` `CSS` `JS` | [📦 Repo](https://github.com/romeototo/ai-tycoon-rialo-game) • [🔗 Play](https://romeototo.github.io/ai-tycoon-rialo-game/) |
 | 👾 | **Monster Tapper** | Action-packed monster tapping clicker game | `JavaScript` | [📦 Repo](https://github.com/romeototo/monster-tapper) • [🔗 Play](https://romeototo.github.io/monster-tapper/) |
 | 🖼️ | **AI Image Generator** | Programmatic image generation with Python & PIL | `Python` `PIL` | [📦 Repo](https://github.com/romeototo/ImageCreationProject) |
-| 🌐 | **Portfolio Website** | Personal portfolio with premium dark theme | `HTML` `CSS` `JS` | [📦 Repo](https://github.com/romeototo/MyFirstProject) • [🔗 Live](https://romeototo.github.io/MyFirstProject/) |
+| 🌐 | **Portfolio Website** | Personal portfolio with premium dark theme | `HTML` `CSS` `JS` | [📦 Repo](https://github.com/romeototo/portfolio-website) • [🔗 Live](https://romeototo.github.io/portfolio-website/) |
 
 </div>
 
@@ -124,7 +124,7 @@ const romeototo = {
 <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
 </a>
 &nbsp;
-<a href="https://romeototo.github.io/MyFirstProject/">
+<a href="https://romeototo.github.io/portfolio-website/">
 <img src="https://img.shields.io/badge/Visit_Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" />
 </a>
 
