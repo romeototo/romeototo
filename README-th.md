@@ -86,13 +86,13 @@ const romeototo = {
 
 | | โปรเจกต์ | รายละเอียด | เทคโนโลยี | ลิงก์ |
 |:---:|---------|-------------|:---:|:---:|
-| 🖥️ | **IT Support AI Chatbot** | แชทบอท AI ช่วยเหลือด้านไอที — 222 FAQ, ระบบ RAG, เชื่อมต่อ Gemini AI | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlebard&logoColor=white) | [📦 Repo](https://github.com/romeototo/it-support-chatbot) • [🔗 Demo](https://romeototo.github.io/it-support-chatbot/) |
-| 📋 | **AI Kanban Board** | กระดานงานแบบเรียลไทม์ ย่อยงานด้วย AI & ระบบล็อกอิน Firebase | ![VanillaJS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | [📦 Repo](https://github.com/romeototo/ai-kanban-board) • [🔗 Live](https://romeototo.github.io/ai-kanban-board/) |
-| 🤖 | **Telegram AI IT Agent** | ระบบจัดการไอทีอัตโนมัติด้วย AI ผ่าน Telegram | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white) | [📦 Repo](https://github.com/romeototo/telegram-ai-it-automation-agent) |
-| 📊 | **Dev Dashboard** | แดชบอร์ดส่วนตัว — แสดงสถิติ GitHub, สถิติ X และติดตามงาน | ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | [📦 Repo](https://github.com/romeototo/dev-dashboard) • [🔗 Live](https://romeototo.github.io/dev-dashboard/) |
-| 🎮 | **Rialo Network Tycoon** | เกมเว็บแนว Idle/Clicker ระดับพรีเมียม ธีมสร้างเครือข่าย AI | ![VanillaJS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [📦 Repo](https://github.com/romeototo/ai-tycoon-rialo-game) • [🔗 Play](https://romeototo.github.io/ai-tycoon-rialo-game/) |
-| 👾 | **Monster Tapper** | เกมกดคลิกตีมอนสเตอร์สุดมันส์ แอ็คชันจัดเต็ม | ![VanillaJS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [📦 Repo](https://github.com/romeototo/monster-tapper) • [🔗 Play](https://romeototo.github.io/monster-tapper/) |
-| 🌐 | **Portfolio Website** | เว็บไซต์รวมผลงานส่วนตัว ธีมสีเข้มระดับพรีเมียม | ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | [📦 Repo](https://github.com/romeototo/portfolio-website) • [🔗 Live](https://romeototo.github.io/portfolio-website/) |
+| 🖥️ | **[IT Support AI Chatbot](https://github.com/romeototo/it-support-chatbot)** | แชทบอท AI ช่วยเหลือด้านไอที — 222 FAQ, ระบบ RAG, เชื่อมต่อ Gemini AI | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlebard&logoColor=white) | [📦 Repo](https://github.com/romeototo/it-support-chatbot) • [🔗 Demo](https://romeototo.github.io/it-support-chatbot/) |
+| 📋 | **[AI Kanban Board](https://github.com/romeototo/ai-kanban-board)** | กระดานงานแบบเรียลไทม์ ย่อยงานด้วย AI & ระบบล็อกอิน Firebase | ![VanillaJS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | [📦 Repo](https://github.com/romeototo/ai-kanban-board) • [🔗 Live](https://romeototo.github.io/ai-kanban-board/) |
+| 🤖 | **[Telegram AI IT Agent](https://github.com/romeototo/telegram-ai-it-automation-agent)** | ระบบจัดการไอทีอัตโนมัติด้วย AI ผ่าน Telegram | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white) | [📦 Repo](https://github.com/romeototo/telegram-ai-it-automation-agent) |
+| 📊 | **[Dev Dashboard](https://github.com/romeototo/dev-dashboard)** | แดชบอร์ดส่วนตัว — แสดงสถิติ GitHub, สถิติ X และติดตามงาน | ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | [📦 Repo](https://github.com/romeototo/dev-dashboard) • [🔗 Live](https://romeototo.github.io/dev-dashboard/) |
+| 🎮 | **[Rialo Network Tycoon](https://github.com/romeototo/ai-tycoon-rialo-game)** | เกมเว็บแนว Idle/Clicker ระดับพรีเมียม ธีมสร้างเครือข่าย AI | ![VanillaJS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [📦 Repo](https://github.com/romeototo/ai-tycoon-rialo-game) • [🔗 Play](https://romeototo.github.io/ai-tycoon-rialo-game/) |
+| 👾 | **[Monster Tapper](https://github.com/romeototo/monster-tapper)** | เกมกดคลิกตีมอนสเตอร์สุดมันส์ แอ็คชันจัดเต็ม | ![VanillaJS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [📦 Repo](https://github.com/romeototo/monster-tapper) • [🔗 Play](https://romeototo.github.io/monster-tapper/) |
+| 🌐 | **[Portfolio Website](https://github.com/romeototo/portfolio-website)** | เว็บไซต์รวมผลงานส่วนตัว ธีมสีเข้มระดับพรีเมียม | ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | [📦 Repo](https://github.com/romeototo/portfolio-website) • [🔗 Live](https://romeototo.github.io/portfolio-website/) |
 
 </div>
 
@@ -102,8 +102,11 @@ const romeototo = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=romeototo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=romeototo&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=romeototo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=romeototo&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="49%" />
+
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romeototo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" width="45%" />
 
 </div>
 
@@ -123,6 +126,10 @@ const romeototo = {
 &nbsp;
 <a href="https://romeototo.github.io/portfolio-website/">
 <img src="https://img.shields.io/badge/เยี่ยมชม_Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" />
+</a>
+&nbsp;
+<a href="https://romeototo.github.io/resume/">
+<img src="https://img.shields.io/badge/ดู_Resume-00D9FF?style=for-the-badge&logo=readdotcv&logoColor=white" height="35" />
 </a>
 
 <br/><br/>
