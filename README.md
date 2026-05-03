@@ -36,7 +36,8 @@ const romeototo = {
     social: {
         x: "https://x.com/RoMeoT0T0",     // 1.8K+ followers
         github: "https://github.com/romeototo",
-        portfolio: "https://romeototo.github.io/portfolio-website/"
+        portfolio: "https://romeototo.github.io/portfolio-website/",
+        resume: "https://romeototo.github.io/resume/"
     },
 
     funFact: "I build games at 2AM and automate things at 3AM 🌙",
@@ -59,14 +60,20 @@ const romeototo = {
 
 <div align="center">
 
+**🌐 Frontend & Web**<br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+<br>**⚙️ Backend & Scripting**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+<br>**🛠️ Tools & Infrastructure**<br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </div>
 
@@ -78,13 +85,13 @@ const romeototo = {
 
 | | Project | Description | Tech | Links |
 |:---:|---------|-------------|:---:|:---:|
-| 🖥️ | **IT Support AI Chatbot** | AI HelpDesk — 222 FAQ/50 cats, Typewriter Anim, Dark/Light Mode, Gemini AI | `Python` `Flask` `Gemini AI` | [📦 Repo](https://github.com/romeototo/it-support-chatbot) • [🔗 Demo](https://romeototo.github.io/it-support-chatbot/) |
-| 📋 | **AI Kanban Board** | Real-time board with AI task breakdown & Firebase Auth | `HTML/JS` `Firebase` `Gemini 2.5` | [📦 Repo](https://github.com/romeototo/ai-kanban-board) • [🔗 Live](https://romeototo.github.io/ai-kanban-board/) |
-| 🤖 | **Telegram AI IT Agent** | AI-powered IT automation via Telegram | `Python` `Gemini AI` | [📦 Repo](https://github.com/romeototo/telegram-ai-it-automation-agent) |
-| 📊 | **Dev Dashboard** | Personal dashboard — GitHub stats, X stats, task tracker | `HTML` `CSS` `JS` | [📦 Repo](https://github.com/romeototo/dev-dashboard) • [🔗 Live](https://romeototo.github.io/dev-dashboard/) |
-| 🎮 | **Rialo Network Tycoon** | Premium idle/clicker web game with AI network theme | `HTML` `CSS` `JS` | [📦 Repo](https://github.com/romeototo/ai-tycoon-rialo-game) • [🔗 Play](https://romeototo.github.io/ai-tycoon-rialo-game/) |
-| 👾 | **Monster Tapper** | Action-packed monster tapping clicker game | `JavaScript` | [📦 Repo](https://github.com/romeototo/monster-tapper) • [🔗 Play](https://romeototo.github.io/monster-tapper/) |
-| 🌐 | **Portfolio Website** | Personal portfolio with premium dark theme | `HTML` `CSS` `JS` | [📦 Repo](https://github.com/romeototo/portfolio-website) • [🔗 Live](https://romeototo.github.io/portfolio-website/) |
+| 🖥️ | **IT Support AI Chatbot** | AI HelpDesk — 222 FAQ/50 cats, Typewriter Anim, Dark/Light Mode, Gemini AI | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlebard&logoColor=white) | [📦 Repo](https://github.com/romeototo/it-support-chatbot) • [🔗 Demo](https://romeototo.github.io/it-support-chatbot/) |
+| 📋 | **AI Kanban Board** | Real-time board with AI task breakdown & Firebase Auth | ![VanillaJS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | [📦 Repo](https://github.com/romeototo/ai-kanban-board) • [🔗 Live](https://romeototo.github.io/ai-kanban-board/) |
+| 🤖 | **Telegram AI IT Agent** | AI-powered IT automation via Telegram | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white) | [📦 Repo](https://github.com/romeototo/telegram-ai-it-automation-agent) |
+| 📊 | **Dev Dashboard** | Personal dashboard — GitHub stats, X stats, task tracker | ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | [📦 Repo](https://github.com/romeototo/dev-dashboard) • [🔗 Live](https://romeototo.github.io/dev-dashboard/) |
+| 🎮 | **Rialo Network Tycoon** | Premium idle/clicker web game with AI network theme | ![VanillaJS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [📦 Repo](https://github.com/romeototo/ai-tycoon-rialo-game) • [🔗 Play](https://romeototo.github.io/ai-tycoon-rialo-game/) |
+| 👾 | **Monster Tapper** | Action-packed monster tapping clicker game | ![VanillaJS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [📦 Repo](https://github.com/romeototo/monster-tapper) • [🔗 Play](https://romeototo.github.io/monster-tapper/) |
+| 🌐 | **Portfolio Website** | Personal portfolio with premium dark theme | ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | [📦 Repo](https://github.com/romeototo/portfolio-website) • [🔗 Live](https://romeototo.github.io/portfolio-website/) |
 
 </div>
 
