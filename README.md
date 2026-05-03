@@ -1,4 +1,4 @@
-
+<div align="center">
 
 <!-- Profile Banner -->
 <img src="./banner.png" alt="RoMeoTOTO — AI Automation Engineer | Automate · Control · Innovate" width="100%" style="border-radius:12px;" />
