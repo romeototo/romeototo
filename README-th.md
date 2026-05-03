@@ -46,14 +46,8 @@ const romeototo = {
 };
 ```
 
-<div align="center">
-
-| 📊 X / Twitter | |
-|:---:|:---:|
-| ผู้ติดตาม **1.8K+** | **@RoMeoT0T0** |
-| Web3 • AI • Builder | กรุงเทพฯ 🇹🇭 |
-
-</div>
+> 🚀 **Builder & AI Enthusiast** จากกรุงเทพฯ 🇹🇭
+> 🌟 ผู้ติดตาม **1.8K+** บน X (**[@RoMeoT0T0](https://x.com/RoMeoT0T0)**)
 
 ---
 
@@ -66,12 +60,12 @@ const romeototo = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br>**⚙️ Backend & Scripting**<br>
+<br><br>**⚙️ Backend & Scripting**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<br>**🛠️ Tools & Infrastructure**<br>
+<br><br>**🛠️ Tools & Infrastructure**<br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
