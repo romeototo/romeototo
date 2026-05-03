@@ -77,12 +77,12 @@ const romeototo = {
 
 | | Project | Description | Tech | Links |
 |:---:|---------|-------------|:---:|:---:|
-| 🖥️ | **IT Support AI Chatbot** | AI Chatbot ช่วยงาน IT Support — Gemini AI, 202 FAQ, Ticket System | `Python` `Flask` `Gemini AI` | [📦 Repo](https://github.com/romeototo/it-support-chatbot) • [🔗 Demo](https://romeototo.github.io/it-support-chatbot/) |
+| 🖥️ | **IT Support AI Chatbot** | AI HelpDesk — 222 FAQ/50 cats, Typewriter Anim, Dark/Light Mode, Gemini AI | `Python` `Flask` `Gemini AI` | [📦 Repo](https://github.com/romeototo/it-support-chatbot) • [🔗 Demo](https://romeototo.github.io/it-support-chatbot/) |
 | 📋 | **AI Kanban Board** | Real-time board with AI task breakdown & Firebase Auth | `HTML/JS` `Firebase` `Gemini 2.5` | [📦 Repo](https://github.com/romeototo/ai-kanban-board) • [🔗 Live](https://romeototo.github.io/ai-kanban-board/) |
 | 🤖 | **Telegram AI IT Agent** | AI-powered IT automation via Telegram | `Python` `Gemini AI` | [📦 Repo](https://github.com/romeototo/telegram-ai-it-automation-agent) |
+| 📊 | **Dev Dashboard** | Personal dashboard — GitHub stats, X stats, task tracker | `HTML` `CSS` `JS` | [📦 Repo](https://github.com/romeototo/dev-dashboard) • [🔗 Live](https://romeototo.github.io/dev-dashboard/) |
 | 🎮 | **Rialo Network Tycoon** | Premium idle/clicker web game with AI network theme | `HTML` `CSS` `JS` | [📦 Repo](https://github.com/romeototo/ai-tycoon-rialo-game) • [🔗 Play](https://romeototo.github.io/ai-tycoon-rialo-game/) |
 | 👾 | **Monster Tapper** | Action-packed monster tapping clicker game | `JavaScript` | [📦 Repo](https://github.com/romeototo/monster-tapper) • [🔗 Play](https://romeototo.github.io/monster-tapper/) |
-
 | 🌐 | **Portfolio Website** | Personal portfolio with premium dark theme | `HTML` `CSS` `JS` | [📦 Repo](https://github.com/romeototo/portfolio-website) • [🔗 Live](https://romeototo.github.io/portfolio-website/) |
 
 </div>
