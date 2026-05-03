@@ -1,7 +1,8 @@
 <div align="center">
 
-<!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9FF&height=220&section=header&text=RoMEoTOTO.base.eth&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Builder%20•%20Gamer%20•%20AI%20Enthusiast%20•%20Web3&descAlignY=55&descSize=18" width="100%" />
+
+<i>👉 <a href="README-th.md">🇹🇭 อ่านรายละเอียดภาษาไทย</a></i><br><br>
 
 <!-- Profile Banner -->
 <img src="./banner.png" alt="RoMeoTOTO — AI Automation Engineer | Automate · Control · Innovate" width="100%" style="border-radius:12px;" />
