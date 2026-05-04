@@ -92,7 +92,7 @@ const romeototo = {
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=romeototo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=romeototo&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="49%" />
+<img src="https://streak-stats.demolab.com?user=romeototo&theme=tokyonight&hide_border=true&background=0D1117&ring=%236C63FF&fire=%236C63FF&currStreakLabel=%236C63FF" width="49%" />
 
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romeototo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" width="45%" />
