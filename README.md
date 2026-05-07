@@ -67,8 +67,8 @@ I build **AI-powered automation tools that solve real IT problems** — chatbots
 ## 📊 GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=romeototo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&cache_seconds=86400" width="49%" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=romeototo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&cache_seconds=86400" width="49%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=romeototo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&cache_seconds=86400" height="195" width="49%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=romeototo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&cache_seconds=86400&card_width=467" height="195" width="49%" />
 
 <br/><br/>
 
