@@ -62,12 +62,19 @@
 ---
 
 ## 📊 GitHub Stats
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=romeototo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&cache_seconds=86400" width="100%" />
+</td>
+<td width="50%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=romeototo&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&cache_seconds=86400" width="100%" />
+</td>
+</tr>
+</table>
+
 <div align="center">
-
-<img align="top" src="https://github-readme-stats-sigma-five.vercel.app/api?username=romeototo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&cache_seconds=86400" width="49%" />
-<img align="top" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=romeototo&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&cache_seconds=86400" width="49%" />
-
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=romeototo&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=00D9FF&currStreakLabel=6C63FF" width="60%" />
 
