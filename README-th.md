@@ -65,10 +65,10 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="middle">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=romeototo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&cache_seconds=86400" width="100%" />
 </td>
-<td width="50%">
+<td width="50%" valign="middle">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=romeototo&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&cache_seconds=86400" width="100%" />
 </td>
 </tr>
