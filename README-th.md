@@ -36,6 +36,19 @@
 
 ---
 
+## ✅ หลักฐานที่ควรเห็นเร็ว
+
+สิ่งที่ผมอยากให้หน้าโปรไฟล์นี้พิสูจน์ได้ทันที:
+
+| สัญญาณ | หลักฐาน |
+|--------|---------|
+| **AI automation ที่ใช้กับงาน IT จริง** | [IT Support AI Chatbot](https://github.com/romeototo/it-support-chatbot) ครอบคลุม 222 FAQs ใน 50 หมวด พร้อม ticket handoff และ admin workflow |
+| **คิดเป็น workflow สำหรับงาน operations** | [CCTV Playback Workspace](https://romeototo.github.io/portfolio-website/case-studies/cctv-playback-workspace/) เป็น case study งาน private ที่ทำเป็น public version แบบ sanitized |
+| **ส่งงานเป็น product ได้** | [BKK Pattaya Taxi](https://romeototo.github.io/portfolio-website/case-studies/bkk-pattaya-taxi/) โชว์ SEO, booking UX และ lead capture หลายช่องทางใน product เดียว |
+| **เอกสารและการจัดระเบียบโปรเจกต์** | repo หลักมี README ไทย/อังกฤษ, project snapshot, demo และจุดเริ่มดูที่ชัดเจน |
+
+---
+
 ## 🧭 โฟกัสของโปรเจกต์
 
 ผมจัดหน้าโปรไฟล์ให้โชว์เฉพาะงานตัวแทนในแต่ละสาย แทนการใส่ทุก repo ที่เคยทดลอง:
@@ -46,6 +59,15 @@
 | **เครื่องมือเพิ่ม productivity** | AI ช่วยวางแผน, realtime task UX, dashboard ใช้งานจริง | [AI Kanban Board](https://github.com/romeototo/ai-kanban-board) |
 | **เว็บ product / landing page** | SEO page, booking flow, demo บน GitHub Pages | [BKK Pattaya Taxi](https://github.com/romeototo/bkk-pattaya-taxi), [Portfolio Website](https://github.com/romeototo/portfolio-website) |
 | **เกมบนเว็บ** | interactive mechanics, progression loop, browser game UI | [Monster Tapper](https://github.com/romeototo/monster-tapper) |
+
+---
+
+## 🧩 งานที่เพิ่งปรับล่าสุด
+
+- ปรับ [portfolio hub](https://romeototo.github.io/portfolio-website/) ให้เป็นจุดเข้าหลักสำหรับ demo, case study และ proof of work
+- เพิ่ม [CCTV Playback Workspace](https://romeototo.github.io/portfolio-website/case-studies/cctv-playback-workspace/) case study แบบ sanitized เพื่อโชว์งาน operations โดยไม่เปิดเผยข้อมูล sensitive
+- เพิ่ม project snapshot ให้ repo หลัก เพื่อให้คนดูเข้าใจ purpose, scope และสถานะของโปรเจกต์เร็วขึ้น
+- archive โปรเจกต์ทดลอง/ซ้ำ เพื่อลดเสียงรบกวนและทำให้ pinned/featured projects โฟกัสกับงานปัจจุบัน
 
 ---
 
@@ -98,6 +120,8 @@
 </td>
 </tr>
 </table>
+
+> หมายเหตุ: Top languages เป็นเพียงสัดส่วนภาษาจาก public repositories ไม่ใช่การจัดอันดับทักษะทั้งหมด
 
 <div align="center">
 

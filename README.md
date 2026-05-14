@@ -39,6 +39,19 @@ If you only inspect a few links, start with these:
 
 ---
 
+## ✅ Proof & Credibility
+
+What I want this profile to prove quickly:
+
+| Signal | Evidence |
+|--------|----------|
+| **Real IT automation** | [IT Support AI Chatbot](https://github.com/romeototo/it-support-chatbot) covers 222 FAQs across 50 support categories with ticket handoff and admin workflow |
+| **Ops workflow thinking** | [CCTV Playback Workspace](https://romeototo.github.io/portfolio-website/case-studies/cctv-playback-workspace/) documents a private workflow as a sanitized public case study |
+| **Product shipping** | [BKK Pattaya Taxi](https://romeototo.github.io/portfolio-website/case-studies/bkk-pattaya-taxi/) shows SEO, booking UX, and multi-channel lead capture in one public product |
+| **Documentation discipline** | Active projects include English/Thai READMEs, project snapshots, demos, and clear start points |
+
+---
+
 ## 🧭 Project Focus
 
 I keep the profile focused on a few clear tracks instead of showing every experiment:
@@ -49,6 +62,15 @@ I keep the profile focused on a few clear tracks instead of showing every experi
 | **Productivity tools** | AI-assisted planning, realtime task UX, practical dashboards | [AI Kanban Board](https://github.com/romeototo/ai-kanban-board) |
 | **Public web products** | SEO pages, booking flows, polished GitHub Pages demos | [BKK Pattaya Taxi](https://github.com/romeototo/bkk-pattaya-taxi), [Portfolio Website](https://github.com/romeototo/portfolio-website) |
 | **Web games** | Interactive mechanics, progression loops, browser-based game UI | [Monster Tapper](https://github.com/romeototo/monster-tapper) |
+
+---
+
+## 🧩 Recently Shipped
+
+- Refreshed the [portfolio hub](https://romeototo.github.io/portfolio-website/) into the main entry point for demos, case studies, and proof of work.
+- Added a sanitized [CCTV Playback Workspace](https://romeototo.github.io/portfolio-website/case-studies/cctv-playback-workspace/) case study to show private operations work without exposing sensitive data.
+- Added project snapshots across active repos so visitors can understand purpose, scope, and status without reading the full codebase.
+- Archived older duplicate experiments so pinned and featured projects stay focused on current work.
 
 ---
 
@@ -101,6 +123,8 @@ I keep the profile focused on a few clear tracks instead of showing every experi
 </td>
 </tr>
 </table>
+
+> Note: Top languages reflect the public code mix in my repositories. They are not a complete skill ranking.
 
 <div align="center">
 
