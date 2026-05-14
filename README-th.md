@@ -23,6 +23,19 @@
 
 ---
 
+## 🚀 เริ่มดูจากตรงนี้
+
+ถ้ามีเวลาดูแค่ไม่กี่ลิงก์ ให้เริ่มจากชุดนี้:
+
+| ลำดับ | ลิงก์ | เหตุผลที่ควรดู |
+|-------|------|----------------|
+| 1 | [Portfolio Website](https://romeototo.github.io/portfolio-website/) | hub หลักที่รวม live demo, case study และภาพรวมโปรเจกต์ชัดที่สุด |
+| 2 | [IT Support AI Chatbot](https://github.com/romeototo/it-support-chatbot) | โปรเจกต์ AI/IT หลัก มี 222 FAQs, ticket handoff และ admin workflow |
+| 3 | [CCTV Playback Workspace Case Study](https://romeototo.github.io/portfolio-website/case-studies/cctv-playback-workspace/) | case study งาน private แบบ sanitized ที่โชว์ workflow automation จริง |
+| 4 | [BKK Pattaya Taxi Case Study](https://romeototo.github.io/portfolio-website/case-studies/bkk-pattaya-taxi/) | ตัวอย่าง public product ที่มี SEO, booking flow และ UI เพื่อ conversion |
+
+---
+
 ## 🧭 โฟกัสของโปรเจกต์
 
 ผมจัดหน้าโปรไฟล์ให้โชว์เฉพาะงานตัวแทนในแต่ละสาย แทนการใส่ทุก repo ที่เคยทดลอง:

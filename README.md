@@ -26,6 +26,19 @@ I build **AI-powered automation tools that solve real IT problems** — helpdesk
 
 ---
 
+## 🚀 Start Here
+
+If you only inspect a few links, start with these:
+
+| Priority | Link | Why it matters |
+|----------|------|----------------|
+| 1 | [Portfolio Website](https://romeototo.github.io/portfolio-website/) | Main hub with live demos, case studies, and the clearest project story |
+| 2 | [IT Support AI Chatbot](https://github.com/romeototo/it-support-chatbot) | Flagship AI/IT project with 222 FAQs, ticket handoff, and admin workflow |
+| 3 | [CCTV Playback Workspace Case Study](https://romeototo.github.io/portfolio-website/case-studies/cctv-playback-workspace/) | Sanitized private-ops case study showing practical workflow automation |
+| 4 | [BKK Pattaya Taxi Case Study](https://romeototo.github.io/portfolio-website/case-studies/bkk-pattaya-taxi/) | Public product example with SEO, booking flow, and conversion-focused UI |
+
+---
+
 ## 🧭 Project Focus
 
 I keep the profile focused on a few clear tracks instead of showing every experiment:
