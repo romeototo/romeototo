@@ -17,12 +17,25 @@
 
 ## 🧑‍💻 About Me
 
-I build **AI-powered automation tools that solve real IT problems** — chatbots handling 200+ support FAQs across 50 categories, Telegram bots for system monitoring & ticket creation, and Kanban boards with AI task breakdown. Based in **Bangkok, Thailand** 🇹🇭
+I build **AI-powered automation tools that solve real IT problems** — helpdesk chatbots, Telegram-based IT agents, AI-assisted work boards, and practical web tools. Based in **Bangkok, Thailand** 🇹🇭
 
 > 🤖 **AI Automation Engineer** — specializing in Gemini API, Python automation & IT workflows
 > 🌟 **1.8K+** Followers on X ([@RoMeoT0T0](https://x.com/RoMeoT0T0))
 > 🔭 Currently building: [Monster Tapper](https://github.com/romeototo/monster-tapper) — premium idle RPG web game
 > 🤝 Open to: AI automation · web tools · game jams · collaboration
+
+---
+
+## 🧭 Project Focus
+
+I keep the profile focused on a few clear tracks instead of showing every experiment:
+
+| Track | What it proves | Representative repos |
+|-------|----------------|----------------------|
+| **AI for IT operations** | FAQ automation, safe command workflows, support tooling | [IT Support AI Chatbot](https://github.com/romeototo/it-support-chatbot), [Telegram AI IT Agent](https://github.com/romeototo/telegram-ai-it-automation-agent) |
+| **Productivity tools** | AI-assisted planning, realtime task UX, practical dashboards | [AI Kanban Board](https://github.com/romeototo/ai-kanban-board) |
+| **Public web products** | SEO pages, booking flows, polished GitHub Pages demos | [BKK Pattaya Taxi](https://github.com/romeototo/bkk-pattaya-taxi), [Portfolio Website](https://github.com/romeototo/portfolio-website) |
+| **Web games** | Interactive mechanics, progression loops, browser-based game UI | [Monster Tapper](https://github.com/romeototo/monster-tapper) |
 
 ---
 
@@ -55,9 +68,8 @@ I build **AI-powered automation tools that solve real IT problems** — chatbots
 | 🖥️ | **[IT Support AI Chatbot](https://github.com/romeototo/it-support-chatbot)** | AI helpdesk handling 200+ FAQs across 50 categories — Gemini-powered responses, typewriter UI & dark/light mode | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlebard&logoColor=white) | ![active](https://img.shields.io/badge/active-4CAF50?style=flat-square) | [📦 Repo](https://github.com/romeototo/it-support-chatbot) · [🔗 Demo](https://romeototo.github.io/it-support-chatbot/) |
 | 📋 | **[AI Kanban Board](https://github.com/romeototo/ai-kanban-board)** | Real-time task board — drag & drop, Firebase auth, Gemini auto-decomposes tasks into subtasks | ![VanillaJS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![active](https://img.shields.io/badge/active-4CAF50?style=flat-square) | [📦 Repo](https://github.com/romeototo/ai-kanban-board) · [🔗 Live](https://romeototo.github.io/ai-kanban-board/) |
 | 🤖 | **[Telegram AI IT Agent](https://github.com/romeototo/telegram-ai-it-automation-agent)** | System monitoring & ticket creation via Telegram — replaces manual IT checks with AI-guardrailed commands | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white) | ![active](https://img.shields.io/badge/active-4CAF50?style=flat-square) | [📦 Repo](https://github.com/romeototo/telegram-ai-it-automation-agent) |
-| 📊 | **[Dev Dashboard](https://github.com/romeototo/dev-dashboard)** | Unified developer hub — GitHub stats, X follower tracking, task manager in one dark-themed dashboard | ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | ![active](https://img.shields.io/badge/active-4CAF50?style=flat-square) | [📦 Repo](https://github.com/romeototo/dev-dashboard) · [🔗 Live](https://romeototo.github.io/dev-dashboard/) |
-| 👾 | **[Monster Tapper](https://github.com/romeototo/monster-tapper)** | Premium idle/clicker RPG — boss battles, combo system, prestige mechanics & 10+ stages | ![VanillaJS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![active](https://img.shields.io/badge/active-4CAF50?style=flat-square) | [📦 Repo](https://github.com/romeototo/monster-tapper) · [🔗 Play](https://romeototo.github.io/monster-tapper/) |
 | 🚕 | **[BKK Pattaya Taxi](https://github.com/romeototo/bkk-pattaya-taxi)** | Full-stack SEO landing page & booking system — React 19, tRPC, multi-channel notifications (Telegram/LINE/Email) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![active](https://img.shields.io/badge/active-4CAF50?style=flat-square) | [📦 Repo](https://github.com/romeototo/bkk-pattaya-taxi) · [🔗 Live](https://romeototo.github.io/bkk-pattaya-taxi/) |
+| 👾 | **[Monster Tapper](https://github.com/romeototo/monster-tapper)** | Premium idle/clicker RPG — boss battles, combo system, prestige mechanics & 10+ stages | ![VanillaJS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![active](https://img.shields.io/badge/active-4CAF50?style=flat-square) | [📦 Repo](https://github.com/romeototo/monster-tapper) · [🔗 Play](https://romeototo.github.io/monster-tapper/) |
 | 🌐 | **[Portfolio Website](https://github.com/romeototo/portfolio-website)** | Dark-themed portfolio — glassmorphism effects, smooth animations, and responsive design | ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | ![active](https://img.shields.io/badge/active-4CAF50?style=flat-square) | [📦 Repo](https://github.com/romeototo/portfolio-website) · [🔗 Live](https://romeototo.github.io/portfolio-website/) |
 
 </div>

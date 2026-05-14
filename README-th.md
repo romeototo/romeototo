@@ -14,12 +14,25 @@
 
 ## 🧑‍💻 เกี่ยวกับฉัน
 
-ผมสร้าง **เครื่องมือ AI อัตโนมัติที่แก้ปัญหา IT จริงๆ** — แชทบอตตอบคำถาม IT กว่า 200+ รายการใน 50 หมวดหมู่, บอท Telegram สำหรับมอนิเตอร์ระบบและสร้าง ticket อัตโนมัติ และ Kanban Board พร้อม AI แยกย่อยงาน อยู่ที่ **กรุงเทพฯ ประเทศไทย** 🇹🇭
+ผมสร้าง **เครื่องมือ AI อัตโนมัติที่แก้ปัญหา IT จริงๆ** — แชทบอต helpdesk, บอท Telegram สำหรับงาน IT, บอร์ดงานที่ใช้ AI ช่วยแตก task และเครื่องมือเว็บที่ใช้งานได้จริง อยู่ที่ **กรุงเทพฯ ประเทศไทย** 🇹🇭
 
 > 🤖 **วิศวกร AI Automation** — เชี่ยวชาญ Gemini API, Python automation และระบบ IT
 > 🌟 **1.8K+** ผู้ติดตามบน X ([@RoMeoT0T0](https://x.com/RoMeoT0T0))
 > 🔭 กำลังสร้าง: [Monster Tapper](https://github.com/romeototo/monster-tapper) — เกม idle RPG บนเว็บแบบพรีเมียม
 > 🤝 รับงาน: AI automation · เครื่องมือเว็บ · game jams · collaboration
+
+---
+
+## 🧭 โฟกัสของโปรเจกต์
+
+ผมจัดหน้าโปรไฟล์ให้โชว์เฉพาะงานตัวแทนในแต่ละสาย แทนการใส่ทุก repo ที่เคยทดลอง:
+
+| สายงาน | สิ่งที่พิสูจน์ | repo ตัวแทน |
+|-------|----------------|-------------|
+| **AI สำหรับงาน IT** | FAQ automation, workflow ที่ควบคุมความเสี่ยง, เครื่องมือ support | [IT Support AI Chatbot](https://github.com/romeototo/it-support-chatbot), [Telegram AI IT Agent](https://github.com/romeototo/telegram-ai-it-automation-agent) |
+| **เครื่องมือเพิ่ม productivity** | AI ช่วยวางแผน, realtime task UX, dashboard ใช้งานจริง | [AI Kanban Board](https://github.com/romeototo/ai-kanban-board) |
+| **เว็บ product / landing page** | SEO page, booking flow, demo บน GitHub Pages | [BKK Pattaya Taxi](https://github.com/romeototo/bkk-pattaya-taxi), [Portfolio Website](https://github.com/romeototo/portfolio-website) |
+| **เกมบนเว็บ** | interactive mechanics, progression loop, browser game UI | [Monster Tapper](https://github.com/romeototo/monster-tapper) |
 
 ---
 
@@ -52,9 +65,8 @@
 | 🖥️ | **[IT Support AI Chatbot](https://github.com/romeototo/it-support-chatbot)** | AI helpdesk ตอบคำถาม IT 200+ รายการใน 50 หมวด — ขับเคลื่อนด้วย Gemini พร้อม UI พิมพ์อักษร & โหมดกลางวัน/กลางคืน | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlebard&logoColor=white) | ![active](https://img.shields.io/badge/active-4CAF50?style=flat-square) | [📦 Repo](https://github.com/romeototo/it-support-chatbot) · [🔗 Demo](https://romeototo.github.io/it-support-chatbot/) |
 | 📋 | **[AI Kanban Board](https://github.com/romeototo/ai-kanban-board)** | บอร์ดงาน Real-time — drag & drop, Firebase auth, Gemini แยกย่อยงานอัตโนมัติ | ![VanillaJS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![active](https://img.shields.io/badge/active-4CAF50?style=flat-square) | [📦 Repo](https://github.com/romeototo/ai-kanban-board) · [🔗 Live](https://romeototo.github.io/ai-kanban-board/) |
 | 🤖 | **[Telegram AI IT Agent](https://github.com/romeototo/telegram-ai-it-automation-agent)** | มอนิเตอร์ระบบ & สร้าง ticket ผ่าน Telegram — แทนการเช็คระบบ IT ด้วยมือ | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white) | ![active](https://img.shields.io/badge/active-4CAF50?style=flat-square) | [📦 Repo](https://github.com/romeototo/telegram-ai-it-automation-agent) |
-| 📊 | **[Dev Dashboard](https://github.com/romeototo/dev-dashboard)** | ศูนย์รวม developer — GitHub stats, ติดตาม X followers, task manager ในธีมมืด | ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | ![active](https://img.shields.io/badge/active-4CAF50?style=flat-square) | [📦 Repo](https://github.com/romeototo/dev-dashboard) · [🔗 Live](https://romeototo.github.io/dev-dashboard/) |
-| 🎮 | **[Rialo Network Tycoon](https://github.com/romeototo/ai-tycoon-rialo-game)** | เกม idle/clicker ธีมเศรษฐกิจ AI network — UI พรีเมียม, อัปเกรด, ระบบ progression | ![VanillaJS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![active](https://img.shields.io/badge/active-4CAF50?style=flat-square) | [📦 Repo](https://github.com/romeototo/ai-tycoon-rialo-game) · [🔗 Play](https://romeototo.github.io/ai-tycoon-rialo-game/) |
-| 👾 | **[Monster Tapper](https://github.com/romeototo/monster-tapper)** | เกมแตะมอนสเตอร์สไตล์ RPG — ระบบ combo, ต่อสู้บอส, อัปเกรด & UI พรีเมียม | ![VanillaJS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![wip](https://img.shields.io/badge/WIP-FF9800?style=flat-square) | [📦 Repo](https://github.com/romeototo/monster-tapper) · [🔗 Play](https://romeototo.github.io/monster-tapper/) |
+| 🚕 | **[BKK Pattaya Taxi](https://github.com/romeototo/bkk-pattaya-taxi)** | landing page และระบบจองรถ — React, tRPC, SEO และช่องทางติดต่อ Telegram/LINE/Email | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![active](https://img.shields.io/badge/active-4CAF50?style=flat-square) | [📦 Repo](https://github.com/romeototo/bkk-pattaya-taxi) · [🔗 Live](https://romeototo.github.io/bkk-pattaya-taxi/) |
+| 👾 | **[Monster Tapper](https://github.com/romeototo/monster-tapper)** | เกมแตะมอนสเตอร์สไตล์ RPG — ระบบ combo, ต่อสู้บอส, อัปเกรด & UI พรีเมียม | ![VanillaJS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![active](https://img.shields.io/badge/active-4CAF50?style=flat-square) | [📦 Repo](https://github.com/romeototo/monster-tapper) · [🔗 Play](https://romeototo.github.io/monster-tapper/) |
 | 🌐 | **[Portfolio Website](https://github.com/romeototo/portfolio-website)** | Portfolio ธีมมืด — glassmorphism, animation นุ่มนวล, responsive | ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | ![active](https://img.shields.io/badge/active-4CAF50?style=flat-square) | [📦 Repo](https://github.com/romeototo/portfolio-website) · [🔗 Live](https://romeototo.github.io/portfolio-website/) |
 
 </div>
