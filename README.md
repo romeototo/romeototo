@@ -1,171 +1,89 @@
 <div align="center">
 
-<!-- Profile Banner -->
-<img src="./banner.png" alt="RoMeoTOTO — AI Automation Engineer | Automate · Control · Innovate" width="100%" style="border-radius:12px;" />
+<img src="./banner.png" alt="RoMeoTOTO - AI Automation Engineer" width="100%" />
 
-<!-- Social Badges -->
-[![X (Twitter)](https://img.shields.io/badge/@RoMeoT0T0-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RoMeoT0T0)
-[![GitHub](https://img.shields.io/badge/romeototo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/romeototo)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://romeototo.github.io/portfolio-website/)
+# RoMEoTOTO
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=640&height=50&lines=AI+Automation+Engineer+%F0%9F%A4%96;Gemini+API+%7C+Python+%7C+Telegram+Bots;AI+chatbots+handling+200%2B+IT+FAQs;Building+premium+web+tools+%26+games;Bangkok-based+%7C+Open+to+collaboration+%F0%9F%87%B9%F0%9F%87%AD" alt="Typing SVG" />
+**AI automation engineer building practical tools for IT support, operations, and web workflows.**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-romeototo.github.io-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://romeototo.github.io/portfolio-website/)
+[![GitHub](https://img.shields.io/badge/GitHub-romeototo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/romeototo)
+[![X](https://img.shields.io/badge/X-@RoMeoT0T0-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RoMeoT0T0)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## What I Build
 
-I build **AI-powered automation tools that solve real IT problems** — helpdesk chatbots, Telegram-based IT agents, AI-assisted work boards, and practical web tools. Based in **Bangkok, Thailand** 🇹🇭
+I focus on small, useful systems that reduce repeated manual work:
 
-> 🤖 **AI Automation Engineer** — specializing in Gemini API, Python automation & IT workflows
-> 🌟 **1.8K+** Followers on X ([@RoMeoT0T0](https://x.com/RoMeoT0T0))
-> 🔭 Currently building: [Monster Tapper](https://github.com/romeototo/monster-tapper) — premium idle RPG web game
-> 🤝 Open to: AI automation · web tools · game jams · collaboration
+- AI helpdesk and IT support assistants
+- Telegram-based IT automation with safety guardrails
+- AI-assisted planning and productivity tools
+- Conversion-focused web products and portfolio artifacts
+- Browser games and interactive experiments when they demonstrate frontend craft
 
----
-
-## 🚀 Start Here
-
-If you only inspect a few links, start with these:
-
-| Priority | Link | Why it matters |
-|----------|------|----------------|
-| 1 | [Portfolio Website](https://romeototo.github.io/portfolio-website/) | Main hub with live demos, case studies, and the clearest project story |
-| 2 | [IT Support AI Chatbot](https://github.com/romeototo/it-support-chatbot) | Flagship AI/IT project with 222 FAQs, ticket handoff, and admin workflow |
-| 3 | [CCTV Playback Workspace Case Study](https://romeototo.github.io/portfolio-website/case-studies/cctv-playback-workspace/) | Sanitized private-ops case study showing practical workflow automation |
-| 4 | [BKK Pattaya Taxi Case Study](https://romeototo.github.io/portfolio-website/case-studies/bkk-pattaya-taxi/) | Public product example with SEO, booking flow, and conversion-focused UI |
+Based in Bangkok, Thailand. Open to AI automation, internal tools, and practical web-product collaborations.
 
 ---
 
-## ✅ Proof & Credibility
+## Start Here
 
-What I want this profile to prove quickly:
-
-| Signal | Evidence |
-|--------|----------|
-| **Real IT automation** | [IT Support AI Chatbot](https://github.com/romeototo/it-support-chatbot) covers 222 FAQs across 50 support categories with ticket handoff and admin workflow |
-| **Ops workflow thinking** | [CCTV Playback Workspace](https://romeototo.github.io/portfolio-website/case-studies/cctv-playback-workspace/) documents a private workflow as a sanitized public case study |
-| **Product shipping** | [BKK Pattaya Taxi](https://romeototo.github.io/portfolio-website/case-studies/bkk-pattaya-taxi/) shows SEO, booking UX, and multi-channel lead capture in one public product |
-| **Documentation discipline** | Active projects include English/Thai READMEs, project snapshots, demos, and clear start points |
-
----
-
-## 🧭 Project Focus
-
-I keep the profile focused on a few clear tracks instead of showing every experiment:
-
-| Track | What it proves | Representative repos |
-|-------|----------------|----------------------|
-| **AI for IT operations** | FAQ automation, safe command workflows, support tooling | [IT Support AI Chatbot](https://github.com/romeototo/it-support-chatbot), [Telegram AI IT Agent](https://github.com/romeototo/telegram-ai-it-automation-agent) |
-| **Productivity tools** | AI-assisted planning, realtime task UX, practical dashboards | [AI Kanban Board](https://github.com/romeototo/ai-kanban-board) |
-| **Public web products** | SEO pages, booking flows, polished GitHub Pages demos | [BKK Pattaya Taxi](https://github.com/romeototo/bkk-pattaya-taxi), [Portfolio Website](https://github.com/romeototo/portfolio-website) |
-| **Web games** | Interactive mechanics, progression loops, browser-based game UI | [Monster Tapper](https://github.com/romeototo/monster-tapper) |
+| Priority | Project | Why it matters |
+| --- | --- | --- |
+| 1 | [Portfolio Website](https://romeototo.github.io/portfolio-website/) | Main hub for demos, case studies, and proof of work |
+| 2 | [IT Support AI Chatbot](https://github.com/romeototo/it-support-chatbot) | Flagship AI/IT support project with Gemini, FAQ routing, tickets, admin workflow, and local knowledge base |
+| 3 | [Telegram AI IT Agent](https://github.com/romeototo/telegram-ai-it-automation-agent) | Safety-first IT automation concept with allowlists, dry-run behavior, audit logs, and operator control |
+| 4 | [BKK Pattaya Taxi](https://github.com/romeototo/bkk-pattaya-taxi) | React + TypeScript product site with booking flow, multilingual copy, and conversion-focused UX |
+| 5 | [Interactive Resume](https://romeototo.github.io/resume/) | Clean public resume artifact linked from GitHub and portfolio |
 
 ---
 
-## 🧩 Recently Shipped
+## Selected Work
 
-- Refreshed the [portfolio hub](https://romeototo.github.io/portfolio-website/) into the main entry point for demos, case studies, and proof of work.
-- Added a sanitized [CCTV Playback Workspace](https://romeototo.github.io/portfolio-website/case-studies/cctv-playback-workspace/) case study to show private operations work without exposing sensitive data.
-- Added project snapshots across active repos so visitors can understand purpose, scope, and status without reading the full codebase.
-- Archived older duplicate experiments so pinned and featured projects stay focused on current work.
+| Track | Repositories | What it proves |
+| --- | --- | --- |
+| AI for IT operations | [IT Support AI Chatbot](https://github.com/romeototo/it-support-chatbot), [Telegram AI IT Agent](https://github.com/romeototo/telegram-ai-it-automation-agent) | Practical automation, operator safety, support workflows, documentation |
+| Productivity tools | [AI Kanban Board](https://github.com/romeototo/ai-kanban-board) | AI-assisted task breakdown, realtime UX, clean static deployment |
+| Web products | [BKK Pattaya Taxi](https://github.com/romeototo/bkk-pattaya-taxi), [Portfolio Website](https://github.com/romeototo/portfolio-website) | Product thinking, responsive UI, SEO-minded landing pages, GitHub Pages delivery |
+| Interactive frontend | [Monster Tapper](https://github.com/romeototo/monster-tapper) | Game loop design, browser UI polish, asset-heavy static app structure |
 
 ---
 
-## 🛠️ Tech Stack
+## Recently Shipped
+
+- Published product and design notes for [BKK Pattaya Taxi](https://github.com/romeototo/bkk-pattaya-taxi).
+- Pushed the latest [IT Support AI Chatbot](https://github.com/romeototo/it-support-chatbot) update with Thai-optimized search, SQLite tickets, admin auth, and conversation memory.
+- Organized local repositories so public GitHub projects stay separated from local-only experiments.
+- Kept lottery/backtesting experiments local-only to avoid mixing private analysis artifacts into public GitHub work.
+
+---
+
+## Stack
+
 <div align="center">
 
-**🔥 Primary (daily use)**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<br><br>**⚡ AI & Cloud**<br>
-![Google Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Shell](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)
+![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## 🎯 Featured Projects
-<div align="center">
-
-| | Project | Description | Tech | Status | Links |
-|:---:|---------|-------------|:---:|:---:|:---:|
-| 🖥️ | **[IT Support AI Chatbot](https://github.com/romeototo/it-support-chatbot)** | AI helpdesk handling 200+ FAQs across 50 categories — Gemini-powered responses, typewriter UI & dark/light mode | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlebard&logoColor=white) | ![active](https://img.shields.io/badge/active-4CAF50?style=flat-square) | [📦 Repo](https://github.com/romeototo/it-support-chatbot) · [🔗 Demo](https://romeototo.github.io/it-support-chatbot/) |
-| 📋 | **[AI Kanban Board](https://github.com/romeototo/ai-kanban-board)** | Real-time task board — drag & drop, Firebase auth, Gemini auto-decomposes tasks into subtasks | ![VanillaJS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![active](https://img.shields.io/badge/active-4CAF50?style=flat-square) | [📦 Repo](https://github.com/romeototo/ai-kanban-board) · [🔗 Live](https://romeototo.github.io/ai-kanban-board/) |
-| 🤖 | **[Telegram AI IT Agent](https://github.com/romeototo/telegram-ai-it-automation-agent)** | System monitoring & ticket creation via Telegram — replaces manual IT checks with AI-guardrailed commands | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white) | ![active](https://img.shields.io/badge/active-4CAF50?style=flat-square) | [📦 Repo](https://github.com/romeototo/telegram-ai-it-automation-agent) |
-| 🚕 | **[BKK Pattaya Taxi](https://github.com/romeototo/bkk-pattaya-taxi)** | SEO-optimized React landing page — Framer Motion animations, multi-step booking form, WhatsApp/LINE integration | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | ![active](https://img.shields.io/badge/active-4CAF50?style=flat-square) | [📦 Repo](https://github.com/romeototo/bkk-pattaya-taxi) · [🔗 Live](https://romeototo.github.io/bkk-pattaya-taxi/) |
-| 👾 | **[Monster Tapper](https://github.com/romeototo/monster-tapper)** | Premium idle/clicker RPG — boss battles, combo system, prestige mechanics & 10+ stages | ![VanillaJS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![active](https://img.shields.io/badge/active-4CAF50?style=flat-square) | [📦 Repo](https://github.com/romeototo/monster-tapper) · [🔗 Play](https://romeototo.github.io/monster-tapper/) |
-| 🌐 | **[Portfolio Website](https://github.com/romeototo/portfolio-website)** | Dark-themed portfolio — glassmorphism effects, smooth animations, and responsive design | ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | ![active](https://img.shields.io/badge/active-4CAF50?style=flat-square) | [📦 Repo](https://github.com/romeototo/portfolio-website) · [🔗 Live](https://romeototo.github.io/portfolio-website/) |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<table>
-<tr>
-<td width="50%" valign="middle">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=romeototo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&cache_seconds=86400" width="100%" />
-</td>
-<td width="50%" valign="middle">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=romeototo&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&cache_seconds=86400" width="100%" />
-</td>
-</tr>
-</table>
-
-> Note: Top languages reflect the public code mix in my repositories. They are not a complete skill ranking.
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=romeototo&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=00D9FF&currStreakLabel=6C63FF" width="60%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=romeototo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&cache_seconds=86400" width="49%" alt="GitHub stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=romeototo&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&cache_seconds=86400" width="49%" alt="Top languages" />
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=romeototo&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=15" />
-
-</div>
-
----
-
-<div align="center">
-
-<a href="https://x.com/RoMeoT0T0">
-<img src="https://img.shields.io/badge/Follow_@RoMeoT0T0-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" height="35" />
-</a>
-&nbsp;
-<a href="https://github.com/romeototo">
-<img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
-</a>
-&nbsp;
-<a href="https://romeototo.github.io/portfolio-website/">
-<img src="https://img.shields.io/badge/Visit_Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" />
-</a>
-
-<br/><br/>
-
-⭐ **If you like my work, consider giving a star!** ⭐
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=romeototo&color=6C63FF&style=flat-square&label=profile+views)
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9FF&height=120&section=footer" width="100%" />
-
-</div>
+> Public stats are a quick overview, not a complete skill ranking.
